@@ -22,7 +22,7 @@ python main.py
 
 程序运行完成后，会显示核对情况
 
-![4091e43c4ad813129b8006053f682485](D:\99复制看门狗\02\images\4091e43c4ad813129b8006053f682485.png)
+![error information](https://github.com/windows99-hue/99-file-integrity-validator/blob/main/images/4091e43c4ad813129b8006053f682485.png?raw=true)
 
 全部文件完整则显示
 
