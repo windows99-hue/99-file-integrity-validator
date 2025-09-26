@@ -69,3 +69,5 @@ if mismatched_files:
         print("---")
 else:
     print("\n✅ 所有文件 MD5 匹配！")
+
+os.system("pause")
